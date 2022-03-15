@@ -9,7 +9,7 @@ This is my first project in Microverse. It's is aimed at learing basic Git/GitHu
 * To install locally
 git clone https://github.com/amklass11/Hlo-mverse.git
 
-cd Hlo-mverse
+* cd Hlo-mverse
 
 # Authors
 Amk lass
