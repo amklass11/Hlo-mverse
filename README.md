@@ -5,7 +5,11 @@ Learning basic Git/GitHub/GitHub Flow.
 HTML
 CSS
 # Getting Started
-This is my first project in Microverse. It's is aimed at learing basic Git/GitHub/GitHub Flow
+This is my first project in Microverse. It's is aimed at learing basic Git/GitHub/GitHub 
+* To install locally
+git clone https://github.com/amklass11/Hlo-mverse.git
+
+cd Hlo-mverse
 
 # Authors
 Amk lass
